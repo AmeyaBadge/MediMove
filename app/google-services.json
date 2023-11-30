@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "379647488855",
+    "firebase_url": "https://medimove-ded21-default-rtdb.firebaseio.com",
+    "project_id": "medimove-ded21",
+    "storage_bucket": "medimove-ded21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379647488855:android:90c965584ba208cc7ec412",
+        "android_client_info": {
+          "package_name": "com.amykoder.medimove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379647488855-td16bu6o8beldgpmji1uem9srdci8dnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amykoder.medimove",
+            "certificate_hash": "40dfd46ae7ef02008f010058b0b478cb0b32fa8a"
+          }
+        },
+        {
+          "client_id": "379647488855-fsnq50nhhmj7tgiqiu0eoosoflaoh9ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQyc_f3thc9WdyLyBDf6I_qMCMuDxGTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379647488855-fsnq50nhhmj7tgiqiu0eoosoflaoh9ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
